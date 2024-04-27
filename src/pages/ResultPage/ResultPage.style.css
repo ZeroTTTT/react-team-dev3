@@ -1,0 +1,14 @@
+.bookCard {
+  margin-top: 1em;
+}
+
+.dropDown {
+  border: 2px solid #4b3620;
+  border-radius: 6px;
+  background-color: white;
+}
+
+.dropDown:hover {
+  color: white;
+  background-color: #4b3620;
+}
